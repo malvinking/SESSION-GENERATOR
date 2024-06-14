@@ -66,14 +66,14 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@speedtechi_
-║❒ *Owner:* _https://wa.me/263780934873
+║❒ *Ytube:* _youtube.com/@lilLiamEffectMd
+║❒ *Owner:* _https://wa.me/+256707089621
 ║❒ *Repo:* _https://github.com/LiamEffect55/Lil-LiamEffect-Md
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahZprsEawduA2d6251t
 ║❒ *Plugins:* _https://github.com/LiamEffect55/Lil-LiamEffect-Md PLUGINS_
 ║❒ **Insta**:*
-_https://www.instagram.com/malvinking20_
+
 ╚════════════════════════╝
 _____________________________________
 
