@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by Lil-LiamEffect-MD*
+*_Pair Code Connected by Lil-LiamEffectMD*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
@@ -68,10 +68,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@lilLiamEffectMd
 ║❒ *Owner:* _https://wa.me/+256707089621
-║❒ *Repo:* _https://github.com/LiamEffect55/Lil-LiamEffect-Md
+║❒ *Repo:* _https://github.com/LiamEffect55/Lil-LiamEffectMd
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahZprsEawduA2d6251t
-║❒ *Plugins:* _https://github.com/LiamEffect55/Lil-LiamEffect-Md PLUGINS_
+║❒ *Plugins:* _https://github.com/LiamEffect55/Lil-LiamEffectMd PLUGINS_
 ║❒ **Insta**:*
 
 ╚════════════════════════╝
