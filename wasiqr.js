@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Lil-LiamEffect-M_*
+*_Session Connected By Lil-LiamEffect-Md_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN Lil-LiamEffect-MD MD』*
+║ *『AMAZING YOU'VE CHOSEN Lil-LiamEffect MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@lilLiamEffectMd
 ║❒ *Owner:* _https://wa.me/message/+256707089621_
-║❒ *Repo:* _https://github.com/LiamEffect55/Lil-LiamEffect-Md_
+║❒ *Repo:* _https://github.com/LiamEffect55/Lil-LiamEffectMd_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahZprsEawduA2d6251t_
-║❒ *Plugins:* _https://github.com/LiamEffect5_ 
+║❒ *Plugins:* _https://github.com/LiamEffect55_ 
 ╚════════════════════════╝
 _____________________________________
 	
